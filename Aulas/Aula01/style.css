@@ -1,0 +1,39 @@
+body{
+    background-color:blue;
+    scroll-behavior: smooth;
+}
+p{
+    color:black;
+    font-style: bold;
+    font-size: 19px;
+    padding:1.5rem;
+    border-radius: 2rem;
+    background-color:white
+}
+h1{
+    color:black;
+    font-size: 36px;
+    font-style: bold;
+    border-radius: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+#Nome{
+    color:black;
+    padding-left: 5rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    background-color: white
+}
+#Filmes{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#Fotos{
+    background-color:black;
+    color:antiquewhite
+}
